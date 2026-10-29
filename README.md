@@ -1,7 +1,7 @@
 # Renamer__UI-Vibecodded
 
 A useful tool to rename multiple files according to specific pattern.<br>
-Backend made manually and fronted was vibe codded.
+Backend made manually and fronted was vibe codded in Claude.
 
 <br>
 
